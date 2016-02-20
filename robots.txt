@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /Fitzpatrick/
+Disallow: /RafaelMolezun/
+Disallow: /RyanDoglione/
